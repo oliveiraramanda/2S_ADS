@@ -1,0 +1,101 @@
+    #page
+    {
+        background-color: #f4f4f4;
+    }
+
+    #menu{
+        height: 30px;
+        display: flex;
+        background-color: #88b148;   
+        align-items: center;
+    }
+
+    .botao{
+        background-color: #88b148;
+        border: transparent 0px solid;
+        width: 15%;
+        font-family: Helvetica;
+        color:white;
+    }
+
+    .botao:hover{
+        background-color:#a6ce65;
+    }   
+
+    #cliente-mais{
+        width: 10%;
+        background-color: #00aad7;
+    }
+
+    #cliente-mais:hover{
+        background-color:rgb(99, 214, 243);
+    }
+
+    #botao5{
+        background-color: #88b148;
+        border: transparent 0px solid;
+        width: 55%;
+        font-family: Helvetica;
+        color:white;
+    }
+
+    #toolbar{
+        height: 100%;
+        background-color: #f4f4f4;
+        padding-left :30px
+    }
+
+    #promo{
+        width: 69%;
+        height: 360px;
+        font-size: 0;
+        float: left;
+        padding-left :20px;
+    }
+
+    #func{
+        width: 26%;
+        height: 360px;
+        float: right;
+        font-size: 0;
+        padding-right :3px;
+    }
+
+    #anuncio1{
+        margin-top: 10px;
+    }
+
+    #um{
+        margin-bottom: 2px;
+        width: 250px;
+        height: 500px;
+        font-size: 0;
+        float: left;
+        padding-left :15px;
+    }
+
+    #dois{
+        width: 250px;
+        height: 500px;
+        font-size: 0;
+        padding-left :10px;
+    }
+    #tres{
+        width: 250px;
+        height: 500px;
+        font-size: 0;
+        padding-left :10px;
+    }
+    #quatro{
+        width: 250px;
+        height: 500px;
+        font-size: 0;
+        padding-left :10px;
+    }
+    #cinco{
+        width: 250px;
+        height: 500px;
+        font-size: 0;
+        padding-left :10px;
+    }
+    
